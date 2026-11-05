@@ -1,0 +1,104 @@
+{
+  "search": {
+    "offerName": "Nom de l'offre",
+    "offerNamePlaceholder": "Ex : Pass Premium",
+    "clubName": "Nom du club",
+    "clubNamePlaceholder": "Ex : Royal Golf",
+    "filter": "Filtrer",
+    "apply": "Appliquer",
+    "button": "Rechercher",
+    "location": "Ville",
+    "locationPlaceholder": "Ex : Marrakech",
+    "type": "Type",
+    "typePlaceholder": "Tous les types",
+    "pricePlaceholder": "Prix approximatif (MAD)...",
+    "status": "Statut",
+    "clearStatus": "Effacer"
+  },
+  "page": {
+    "title": "Adhésions",
+    "results": "Offres disponibles",
+    "loading": "Chargement des abonnements...",
+    "error": "Impossible de charger les abonnements",
+    "empty": "Aucun abonnement trouvé",
+    "emptyPrice": "Aucune adhésion proche de ce prix",
+    "loadingMore": "Chargement de plus d'abonnements..."
+  },
+  "item": {
+    "club": "Club",
+    "location": "Lieu",
+    "type": "Type",
+    "price": "Prix",
+    "perYear": "/ an"
+  },
+  "club": {
+    "offers": "{{count}} offre(s)",
+    "noOffers": "Aucune cotisation à prix publié par ce club.",
+    "noOffersHint": "Les tarifs sont communiqués par le club sur demande.",
+    "select": "Sélectionner"
+  },
+  "type": {
+    "MONTHLY": "Mensuel",
+    "YEARLY": "Annuel",
+    "VIP": "VIP",
+    "ACTIVE": "Actif",
+    "SUSPENDED": "Suspendu"
+  },
+  "dialog": {
+    "description": "Description",
+    "details": "Détails",
+    "benefits": "Avantages",
+    "club": "Club",
+    "location": "Lieu",
+    "type": "Type",
+    "price": "Prix",
+    "duration": "Durée",
+    "subscribe": "S'abonner"
+  },
+  "notification": {
+    "success": "Demande d'abonnement envoyée",
+    "successDesc": "Votre demande a été envoyée. Veuillez attendre la confirmation du club."
+  },
+  "checkout": {
+    "title": "Paiement de l'abonnement",
+    "subtitle": "Vérifiez votre abonnement et confirmez le paiement.",
+    "back": "Retour aux abonnements",
+    "summary": "Récapitulatif",
+    "subscriptionPrice": "Prix de l'abonnement",
+    "total": "Total à payer",
+    "paying": "Paiement en cours...",
+    "confirm": "Confirmer le paiement",
+    "success": "Abonnement payé",
+    "successDescription": "Votre demande d'abonnement a été envoyée au club et votre paiement enregistré.",
+    "error": "Impossible d'effectuer le paiement",
+    "notFound": "Abonnement introuvable."
+  },
+  "admin": {
+    "title": "Adhésions",
+    "subtitle": "Toutes les adhésions souscrites par les joueurs, avec coordonnées, période et statut.",
+    "count": "{{count}} adhésion(s)",
+    "filterAll": "Toutes",
+    "type": "Type d'adhésion",
+    "club": "Club",
+    "startDate": "Date de début",
+    "endDate": "Date de fin",
+    "price": "Prix",
+    "paid": "Payée",
+    "unpaid": "Non payée",
+    "requestedOn": "Demandée le",
+    "paidOn": "Payée le",
+    "empty": "Aucune adhésion trouvée.",
+    "error": "Impossible de charger les adhésions.",
+    "loadMore": "Charger plus",
+    "loadingMore": "Chargement...",
+    "accept": "Accepter",
+    "reject": "Refuser",
+    "acceptedToast": "Adhésion acceptée",
+    "rejectedToast": "Adhésion refusée",
+    "statuses": {
+      "PENDING": "En attente",
+      "ACCEPTED": "Acceptée",
+      "REJECTED": "Refusée"
+    }
+  }
+}

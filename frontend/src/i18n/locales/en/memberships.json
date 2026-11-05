@@ -1,0 +1,104 @@
+{
+  "search": {
+    "offerName": "Offer name",
+    "offerNamePlaceholder": "Ex: Premium Pass",
+    "clubName": "Club name",
+    "clubNamePlaceholder": "Ex: Royal Golf",
+    "filter": "Filter",
+    "apply": "Apply",
+    "button": "Search",
+    "location": "City",
+    "locationPlaceholder": "Ex: Marrakech",
+    "type": "Type",
+    "typePlaceholder": "All types",
+    "pricePlaceholder": "Approx. price (MAD)...",
+    "status": "Status",
+    "clearStatus": "Clear"
+  },
+  "page": {
+    "title": "Memberships",
+    "results": "Available offers",
+    "loading": "Loading memberships...",
+    "error": "Failed to load memberships",
+    "empty": "No memberships found",
+    "emptyPrice": "No memberships close to this price",
+    "loadingMore": "Loading more memberships..."
+  },
+  "item": {
+    "club": "Club",
+    "location": "Location",
+    "type": "Type",
+    "price": "Price",
+    "perYear": "/ year"
+  },
+  "club": {
+    "offers": "{{count}} offer(s)",
+    "noOffers": "No membership price is published by this club.",
+    "noOffersHint": "Rates are provided by the club on request.",
+    "select": "Select"
+  },
+  "type": {
+    "MONTHLY": "Monthly",
+    "YEARLY": "Yearly",
+    "VIP": "VIP",
+    "ACTIVE": "Active",
+    "SUSPENDED": "Suspended"
+  },
+  "dialog": {
+    "description": "Description",
+    "details": "Details",
+    "benefits": "Benefits",
+    "club": "Club",
+    "location": "Location",
+    "type": "Type",
+    "price": "Price",
+    "duration": "Duration",
+    "subscribe": "Subscribe"
+  },
+  "notification": {
+    "success": "Subscription request sent",
+    "successDesc": "Your request has been sent. Please wait for the club's confirmation."
+  },
+  "checkout": {
+    "title": "Subscription payment",
+    "subtitle": "Review your subscription and confirm the payment.",
+    "back": "Back to memberships",
+    "summary": "Summary",
+    "subscriptionPrice": "Subscription price",
+    "total": "Total to pay",
+    "paying": "Processing payment...",
+    "confirm": "Confirm payment",
+    "success": "Subscription paid",
+    "successDescription": "Your subscription request has been sent to the club and your payment recorded.",
+    "error": "Unable to process the payment",
+    "notFound": "Membership not found."
+  },
+  "admin": {
+    "title": "Memberships",
+    "subtitle": "All memberships subscribed by players, with contact details, period and status.",
+    "count": "{{count}} membership(s)",
+    "filterAll": "All",
+    "type": "Membership type",
+    "club": "Club",
+    "startDate": "Start date",
+    "endDate": "End date",
+    "price": "Price",
+    "paid": "Paid",
+    "unpaid": "Unpaid",
+    "requestedOn": "Requested on",
+    "paidOn": "Paid on",
+    "empty": "No memberships found.",
+    "error": "Unable to load memberships.",
+    "loadMore": "Load more",
+    "loadingMore": "Loading...",
+    "accept": "Accept",
+    "reject": "Reject",
+    "acceptedToast": "Membership accepted",
+    "rejectedToast": "Membership rejected",
+    "statuses": {
+      "PENDING": "Pending",
+      "ACCEPTED": "Accepted",
+      "REJECTED": "Rejected"
+    }
+  }
+}

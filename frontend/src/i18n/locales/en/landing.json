@@ -1,0 +1,93 @@
+{
+  "nav": {
+    "Reservations": "Reservations",
+    "Memberships": "Memberships",
+    "Tournaments": "Tournaments",
+    "shop": "Shop"
+  },
+  "auth": {
+    "login": "Member login",
+    "register": "Create an account",
+    "dashboard": "Dashboard",
+    "logout": "Logout"
+  },
+  "hero": {
+    "eyebrow": "TeeTime Executive · Morocco",
+    "title": "Book your tee time in just a few clicks",
+    "tagline": "Reserve the most beautiful courses in Morocco, manage your memberships and equip yourself with our partner clubs — all in one place built for discerning golfers.",
+    "cta": "Book Now",
+    "secondaryCta": "Explore memberships",
+    "scroll": "Scroll to explore"
+  },
+  "features": {
+    "section1": {
+      "title": "Instant Access to the Best Courses",
+      "text": "Our platform offers you real-time visibility into the availability of the most sought-after clubs. No more endless phone calls and waiting. A clean calendar, immediate confirmation, and the guarantee of a tee time at your desired hour. The elegance of simplicity.",
+      "button": "Discover how it works"
+    },
+    "section2": {
+      "title": "An Exceptional Collection of Clubs",
+      "text": "We have rigorously selected the most prestigious courses. Designs signed by legendary architects, manicured fairways, and impeccable service. As an Executive member, the gates to golf's sanctuaries are wide open to you.",
+      "button": "Explore the collection"
+    },
+    "section3": {
+      "title": "An Experience Beyond the Course",
+      "text": "Your reservation is only the beginning. Our integrated concierge service takes care of premium equipment rental, reserving your cart prepared in advance, and booking a table at the clubhouse restaurant after your round. Focus entirely on your swing.",
+      "button": "Concierge services"
+    }
+  },
+  "cta": {
+    "title": "Ready to tee off?",
+    "text": "Join the exclusive circle of discerning golfers. Sign up to discover our platform and book your next exceptional moment.",
+    "button": "Create an Executive Account"
+  },
+  "sections": {
+    "products": {
+      "eyebrow": "The Shop",
+      "title": "Featured golf products",
+      "subtitle": "A curated selection of equipment from our partner clubs, delivered straight to your door.",
+      "viewAll": "Shop all products",
+      "view": "View product",
+      "error": "Unable to load products right now."
+    },
+    "courses": {
+      "eyebrow": "The Courses",
+      "title": "Discover exceptional golf clubs",
+      "subtitle": "Fairways designed by legendary architects, bookable in just a few clicks.",
+      "viewAll": "Explore clubs",
+      "courseCount": "{{count}} course(s)",
+      "greenFee": "Green fee from",
+      "discover": "View club",
+      "error": "Unable to load golf clubs right now."
+    },
+    "memberships": {
+      "eyebrow": "Memberships",
+      "title": "Join a private circle",
+      "subtitle": "Tailored plans for every player, from discovery rounds to annual memberships.",
+      "viewAll": "All memberships",
+      "perYear": "/ year",
+      "choose": "Choose this membership",
+      "error": "Unable to load memberships right now."
+    },
+    "newsletter": {
+      "eyebrow": "The Circle",
+      "title": "Receive our private offers",
+      "subtitle": "Once a month: the best availability, new courses and privileges reserved for members.",
+      "placeholder": "Your email address",
+      "button": "Subscribe",
+      "success": "Thank you! Your TeeTime Circle subscription is confirmed.",
+      "invalid": "Please enter a valid email address.",
+      "privacy": "No spam. Unsubscribe in one click."
+    }
+  },
+  "footer": {
+    "description": "Golf excellence, without compromise. The standard for discerning players.",
+    "rights": "© {{year}} TeeTime Executive. All Rights Reserved.",
+    "links": {
+      "policy": "À propos",
+      "terms_of_service": "Contact",
+      "press_kit": "Mentions légales",
+      "contact": "Confidentialité"
+    }
+  }
+}

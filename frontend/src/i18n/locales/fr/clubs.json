@@ -1,0 +1,60 @@
+{
+  "search": {
+    "city": "Ville",
+    "cityPlaceholder": "Ex : Marrakech",
+    "clubName": "Nom du club",
+    "clubNamePlaceholder": "Ex : Royal Golf",
+    "date": "Date",
+    "datePlaceholder": "Choisir une date",
+    "timeFrom": "À partir de",
+    "timeFromPlaceholder": "Ex : 08:00",
+    "timeTo": "Jusqu'à",
+    "timeToPlaceholder": "Ex : 12:00",
+    "players": "Joueurs",
+    "playersPlaceholder": "Ex : 2 joueurs",
+    "holes": "Trous",
+    "holesPlaceholder": "Ex : 18 trous",
+    "button": "Rechercher",
+    "filter": "Filtrer",
+    "reset": "Réinitialiser",
+    "noResult": "Aucun club ne correspond à « {{criteria}} ». Essayez un autre début de nom de ville ou de club.",
+    "apply": "Appliquer"
+  },
+  "course": {
+    "courseNumber": "Parcours",
+    "holes": "trous",
+    "currency": "MAD",
+    "perPlayer": "joueur",
+    "availableTimes": "Horaires disponibles",
+    "seeMore": "Voir plus",
+    "seeLess": "Voir moins",
+    "priceOnRequest": "Prix sur demande",
+    "greenFees": "Tarifs green fee",
+    "extraFees": "Frais additionnels",
+    "extraFeesHint": "Frais facultatifs, non inclus dans le green fee.",
+    "weekend": "le week-end"
+  },
+  "dialog": {
+    "description": "Description",
+    "details": "Détails",
+    "reserve": "Réserver",
+    "selectTime": "Sélectionnez un horaire",
+    "perPlayer": "/ joueur"
+  },
+  "club": {
+    "courses": "Parcours",
+    "viewCourses": "Voir les parcours",
+    "back": "Retour"
+  },
+  "clubsManagement": {
+    "status": {
+      "active": "Actif",
+      "suspended": "Suspendu",
+      "archived": "Archivé"
+    }
+  },
+  "page": {
+    "title": "Trouvez votre club",
+    "results": "Clubs disponibles"
+  }
+}

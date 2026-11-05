@@ -1,0 +1,93 @@
+{
+  "nav": {
+    "Reservations": "Reservations",
+    "Memberships": "Adhésions",
+    "Tournaments": "Tournois",
+    "shop": "Boutique"
+  },
+  "auth": {
+    "login": "Espace membre",
+    "register": "Créer un compte",
+    "dashboard": "Tableau de bord",
+    "logout": "Se déconnecter"
+  },
+  "hero": {
+    "eyebrow": "TeeTime Executive · Maroc",
+    "title": "Réservez votre tee time en quelques clics",
+    "tagline": "Réservez les plus beaux parcours du Maroc, gérez vos adhésions et équipez-vous auprès de nos clubs partenaires — dans un seul espace pensé pour les golfeurs exigeants.",
+    "cta": "Réserver",
+    "secondaryCta": "Découvrir les adhésions",
+    "scroll": "Faites défiler"
+  },
+  "features": {
+    "section1": {
+      "title": "Accès Instantané aux Meilleurs Parcours",
+      "text": "Notre plateforme vous offre une visibilité en temps réel sur les disponibilités des clubs les plus prisés. Fini les appels téléphoniques interminables et les attentes. Un calendrier épuré, une confirmation immédiate, et la garantie d'un départ à l'heure souhaitée. L'élégance de la simplicité.",
+      "button": "Découvrir le fonctionnement"
+    },
+    "section2": {
+      "title": "Une Collection de Clubs d'Exception",
+      "text": "Nous avons rigoureusement sélectionné les parcours les plus prestigieux. Des designs signés par des architectes de légende, des fairways manucurés et un service irréprochable. En tant que membre Executive, les portes des sanctuaires du golf vous sont grandes ouvertes.",
+      "button": "Explorer la collection"
+    },
+    "section3": {
+      "title": "Une Expérience Au-Delà du Parcours",
+      "text": "Votre réservation n'est que le début. Notre service de conciergerie intégré s'occupe de la location de matériel haut de gamme, de la réservation de votre voiturette préparée à l'avance, et d'une table au restaurant du clubhouse après votre partie. Concentrez-vous uniquement sur votre swing.",
+      "button": "Services de conciergerie"
+    }
+  },
+  "cta": {
+    "title": "Prêt à prendre votre premier départ?",
+    "text": "Rejoignez le cercle restreint des golfeurs exigeants. Inscrivez-vous pour découvrir notre plateforme et réservez votre prochain moment d'exception.",
+    "button": "Créer un compte Executive"
+  },
+  "sections": {
+    "products": {
+      "eyebrow": "La Boutique",
+      "title": "Produits golf en vedette",
+      "subtitle": "Une sélection d'équipements signés par nos clubs partenaires, livrés directement chez vous.",
+      "viewAll": "Toute la boutique",
+      "view": "Voir le produit",
+      "error": "Impossible de charger les produits pour le moment."
+    },
+    "courses": {
+      "eyebrow": "Les Parcours",
+      "title": "Découvrez nos golfs d'exception",
+      "subtitle": "Des fairways signés par les plus grands architectes, à réserver en quelques clics.",
+      "viewAll": "Explorer les clubs",
+      "courseCount": "{{count}} parcours",
+      "greenFee": "Green fee dès",
+      "discover": "Découvrir le club",
+      "error": "Impossible de charger les clubs pour le moment."
+    },
+    "memberships": {
+      "eyebrow": "Les Adhésions",
+      "title": "Rejoignez un cercle privé",
+      "subtitle": "Des formules pensées pour chaque joueur, du parcours découverte au membership annuel.",
+      "viewAll": "Toutes les adhésions",
+      "perYear": "/ an",
+      "choose": "Choisir cette adhésion",
+      "error": "Impossible de charger les adhésions pour le moment."
+    },
+    "newsletter": {
+      "eyebrow": "Le Cercle",
+      "title": "Recevez nos offres privées",
+      "subtitle": "Une fois par mois, les meilleures disponibilités, les nouveaux parcours et les privilèges réservés aux membres.",
+      "placeholder": "Votre adresse e-mail",
+      "button": "S'inscrire",
+      "success": "Merci ! Votre inscription au cercle TeeTime est confirmée.",
+      "invalid": "Veuillez saisir une adresse e-mail valide.",
+      "privacy": "Pas de spam. Désinscription en un clic."
+    }
+  },
+  "footer": {
+    "description": "L'excellence du golf, sans compromis. La référence pour les joueurs exigeants.",
+    "rights": "© {{year}} TeeTime Executive. Tous droits réservés.",
+    "links": {
+      "policy": "Politique de confidentialité",
+      "terms_of_service": "Conditions générales d'utilisation",
+      "press_kit": "Kit média",
+      "contact": "Contact"
+    }
+  }
+}

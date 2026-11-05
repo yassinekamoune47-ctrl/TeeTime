@@ -1,0 +1,106 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+@import "@fontsource-variable/geist";
+@import "@fontsource/playfair-display/400.css";
+@import "@fontsource/playfair-display/500.css";
+@import "@fontsource/playfair-display/600.css";
+@import "@fontsource/playfair-display/700.css";
+
+/* stylelint-disable-next-line at-rule-no-unknown */
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+  /* Primary - Gold */
+  --color-primary: #C9A84C;
+  --color-primary-hover: #B8973F;
+  --color-primary-foreground: #FFFFFF;
+
+  /* Secondary - Green */
+  --color-secondary: #2D6A4F;
+  --color-secondary-hover: #245A42;
+  --color-secondary-foreground: #FFFFFF;
+
+  /* Background & Surface */
+  --color-background: #FAFAF8;
+  --color-surface: #FFFFFF;
+  --color-surface-elevated: #FFFFFF;
+
+  /* Text */
+  --color-foreground: #1A1A1A;
+  --color-muted: #6C757D;
+  --color-muted-foreground: #6C757D;
+
+  /* Borders */
+  --color-border: #E8E5E0;
+  --color-ring: #C9A84C;
+
+  /* shadcn semantic tokens (dropdowns, cards, selects...) */
+  --color-popover: #FFFFFF;
+  --color-popover-foreground: #1A1A1A;
+  --color-card: #FFFFFF;
+  --color-card-foreground: #1A1A1A;
+  --color-accent: #F5F2EA;
+  --color-accent-foreground: #1A1A1A;
+  --color-input: #E8E5E0;
+  --color-destructive: #EF4444;
+  --color-destructive-foreground: #FFFFFF;
+
+  /* Status Colors */
+  --color-success: #22C55E;
+  --color-warning: #EAB308;
+  --color-error: #EF4444;
+  --color-info: #3B82F6;
+
+  /* Fonts */
+  --font-sans: "Geist Variable", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Playfair Display", ui-serif, Georgia, serif;
+}
+
+/* Dark Theme */
+.dark {
+  /* Primary - Deeper Gold */
+  --color-primary: #A8873C;
+  --color-primary-hover: #C9A84C;
+  --color-primary-foreground: #FFFFFF;
+
+  /* Secondary - Deep Forest Green */
+  --color-secondary: #1B4332;
+  --color-secondary-hover: #2D6A4F;
+  --color-secondary-foreground: #FFFFFF;
+
+  /* Background & Surface */
+  --color-background: #0F1410;
+  --color-surface: #1A2420;
+  --color-surface-elevated: #242C28;
+
+  /* Text */
+  --color-foreground: #F0F0F0;
+  --color-muted: #A0A0A0;
+  --color-muted-foreground: #A0A0A0;
+
+  /* Borders */
+  --color-border: #2A302C;
+  --color-ring: #A8873C;
+
+  /* shadcn semantic tokens (dropdowns, cards, selects...) */
+  --color-popover: #1A2420;
+  --color-popover-foreground: #F0F0F0;
+  --color-card: #1A2420;
+  --color-card-foreground: #F0F0F0;
+  --color-accent: #242C28;
+  --color-accent-foreground: #F0F0F0;
+  --color-input: #2A302C;
+  --color-destructive: #EF4444;
+  --color-destructive-foreground: #FFFFFF;
+
+  /* Status Colors (same hues, adjusted for dark) */
+  --color-success: #22C55E;
+  --color-warning: #EAB308;
+  --color-error: #EF4444;
+  --color-info: #3B82F6;
+}
+
+body {
+    font-family: var(--font-sans);
+}

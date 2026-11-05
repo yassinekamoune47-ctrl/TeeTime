@@ -1,0 +1,57 @@
+{
+  "page": {
+    "eyebrow": "Tee time booking",
+    "title": "Find your next round",
+    "subtitle": "Choose a club, a course, then a tee time. Booking is only one tap away.",
+    "loading": "Loading available clubs…",
+    "loadingMore": "Loading clubs…",
+    "loadMore": "Load more clubs",
+    "error": "We could not load the available clubs.",
+    "empty": "No club is available for these filters.",
+    "selectDate": "Select a date",
+    "datePlaceholder": "Pick a date",
+    "confirm": "Confirm",
+    "availableSlots": "Available slots",
+    "noSlots": "No slots available for this date",
+    "windowHint": "Clubs publish their tee times {{days}} days ahead, from {{start}} to {{end}}."
+  },
+  "search": {
+    "clubName": "Search a club",
+    "city": "City"
+  },
+  "slot": {
+    "available": "Available",
+    "full": "Full",
+    "places": "places",
+    "holes": "holes",
+    "reservationDate": "Reservation date",
+    "noTimes": "No tee times available for this course.",
+    "limited": "Limited availability",
+    "priceOnRequest": "Price on request",
+    "blocked": "Already booked",
+    "closed": "Closed",
+    "datesPublished": "{{n}} bookable dates until {{last}}"
+  },
+  "dialog": {
+    "title": "Book a slot",
+    "selectSlots": "Number of places",
+    "slots": "place(s)",
+    "reserve": "Reserve",
+    "summary": "Reservation summary",
+    "course": "Course",
+    "date": "Date",
+    "time": "Time",
+    "places": "Places",
+    "price": "Price",
+    "total": "Total",
+    "confirm": "Confirm reservation",
+    "perPlayer": "/ player",
+    "priceOnRequest": "Price on request"
+  },
+  "notification": {
+    "success": "Reservation request sent",
+    "successDesc": "Your request has been sent. Please wait for the club's confirmation.",
+    "error": "Error",
+    "errorDesc": "An error occurred. Please try again."
+  }
+}

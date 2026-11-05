@@ -1,0 +1,50 @@
+{
+  "search": {
+    "name": "Tournament name",
+    "namePlaceholder": "Ex: Marrakech Open",
+    "filter": "Filter",
+    "apply": "Apply",
+    "button": "Search",
+    "date": "Date",
+    "datePlaceholder": "Pick a date",
+    "location": "City",
+    "locationPlaceholder": "Ex: Marrakech",
+    "status": "Status",
+    "statusPlaceholder": "All statuses"
+  },
+  "status": {
+    "brouillon": "Draft",
+    "inscriptions_ouvertes": "Registrations open",
+    "inscriptions_fermees": "Registrations closed",
+    "avant_tournoi": "Before tournament",
+    "en_direct": "Live",
+    "termine": "Completed",
+    "resultats_publies": "Results published",
+    "archive": "Archived"
+  },
+  "card": {
+    "date": "Date",
+    "location": "Location",
+    "club": "Club",
+    "entryFee": "Entry fee",
+    "capacity": "Capacity: {{max}} players",
+    "viewDetails": "View details"
+  },
+  "dialog": {
+    "description": "Description",
+    "details": "Details",
+    "date": "Date",
+    "location": "Location",
+    "club": "Club",
+    "entryFee": "Entry fee",
+    "capacity": "Capacity",
+    "status": "Status",
+    "register": "Register"
+  },
+  "page": {
+    "title": "Tournaments",
+    "results": "Available tournaments",
+    "loading": "Loading tournaments...",
+    "noResults": "No tournaments found"
+  }
+}

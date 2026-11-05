@@ -1,0 +1,57 @@
+{
+  "page": {
+    "eyebrow": "Réservation de départ",
+    "title": "Trouvez votre prochain parcours",
+    "subtitle": "Choisissez un club, un parcours, puis une heure de départ. La réservation est à un clic.",
+    "loading": "Chargement des clubs disponibles…",
+    "loadingMore": "Chargement des clubs…",
+    "loadMore": "Voir plus de clubs",
+    "error": "Impossible de charger les clubs disponibles.",
+    "empty": "Aucun club n'est disponible avec ces filtres.",
+    "selectDate": "Sélectionnez une date",
+    "datePlaceholder": "Choisir une date",
+    "confirm": "Confirmer",
+    "availableSlots": "Créneaux disponibles",
+    "noSlots": "Aucun créneau disponible pour cette date",
+    "windowHint": "Les clubs publient leurs départs {{days}} jours à l'avance, du {{start}} au {{end}}."
+  },
+  "search": {
+    "clubName": "Rechercher un club",
+    "city": "Ville"
+  },
+  "slot": {
+    "available": "Disponible",
+    "full": "Complet",
+    "places": "places",
+    "holes": "trous",
+    "reservationDate": "Date de réservation",
+    "noTimes": "Aucune heure de départ disponible pour ce parcours.",
+    "limited": "Places limitées",
+    "priceOnRequest": "Prix sur demande",
+    "blocked": "Déjà réservé",
+    "closed": "Fermé",
+    "datesPublished": "{{n}} dates bookables jusqu'au {{last}}"
+  },
+  "dialog": {
+    "title": "Réserver un créneau",
+    "selectSlots": "Nombre de places",
+    "slots": "place(s)",
+    "reserve": "Réserver",
+    "summary": "Résumé de la réservation",
+    "course": "Parcours",
+    "date": "Date",
+    "time": "Heure",
+    "places": "Places",
+    "price": "Prix",
+    "total": "Total",
+    "confirm": "Confirmer la réservation",
+    "perPlayer": "/ joueur",
+    "priceOnRequest": "Prix sur demande"
+  },
+  "notification": {
+    "success": "Demande de réservation envoyée",
+    "successDesc": "Votre demande a été envoyée. Veuillez attendre la confirmation du club.",
+    "error": "Erreur",
+    "errorDesc": "Une erreur est survenue. Veuillez réessayer."
+  }
+}
